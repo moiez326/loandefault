@@ -1,18 +1,11 @@
+![loan](https://www.lendingtree.com/content/uploads/2020/01/mortgage-default.jpg)
 # Discount Strategy and Customer Ratings Analysis
-
 ## Overview
 
 This repository contains an analysis focused on understanding the impact of discount strategies on customer ratings for two leading sports apparel companies: Adidas and Nike. The goal is to derive insights into how discounts influence customer perceptions and to identify patterns that could inform future pricing strategies.
 
-### Data Source
-
-The analysis is based on a dataset (`cleaned_loan.csv`) containing detailed information on discounts and customer ratings, among other variables.
-
-### Tools & Technologies
-
-- Python for data analysis and manipulation.
-- Seaborn and Matplotlib for visualization.
-- Jupyter Notebook for interactive development and documentation.
+### Data Source:
+- The analysis is based on a dataset (`cleaned_loan.csv`) containing detailed information on discounts and customer ratings, among other variables.
 
 ## Analysis Summary
 
