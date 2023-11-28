@@ -11,15 +11,6 @@ Information on 5,960 home equity loans and includes various attributes such as l
 - **Default Prediction**: We aim to build a binary classification model to predict loan defaults (DL) and minimize false negatives (clients predicted as GL but turn out to be DL).
 - **Exploratory Data Analysis (EDA)**: The analysis of the dataset revealed valuable insights, such as the significance of financial metrics, correlations between loan attributes, and differences in loan default rates for various reasons and job types.
 
-## Analysis Highlights
-
-1. **Data Cleaning and Preprocessing**: The dataset underwent cleaning, standardization, and handling of missing values to prepare it for analysis.
-2. **EDA**: Exploratory Data Analysis provided insights into the distribution of financial metrics, correlations between variables, and patterns in loan defaults based on reasons and job types.
-
-![EDA Chart](insert_eda_chart_url_here)
-
-3. **Model Development**: Machine-learning models were trained and evaluated to predict loan defaults accurately.
-
 ## Analysis Summary and Key Findings
 
 - Loan amount was not a significant indicator of clients defaulting.
