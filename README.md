@@ -12,7 +12,7 @@ This repository contains an analysis focused on understanding the impact of disc
 - Loan amount was not a significan indicator of clients defaulting
 ![chart 1](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.36.39.png)
 - Credit-related variables such as derogatory reports showed a more drastic difference in frequency of bad and good loan status
-[chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
+![chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
 
 ## Conclusions
 The analysis suggests that while discounts are a common strategy, they do not significantly alter customer ratings. This could imply that product quality and brand reputation might play more substantial roles in customer satisfaction than pricing strategies alone.
