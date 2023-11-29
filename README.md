@@ -1,14 +1,12 @@
-![Loan Default](https://www.lendingtree.com/content/uploads/2020/01/mortgage-default.jpg)
 # Loan Default Prediction for Global Bank
-
 ## Project Overview
-This project focuses on developing a machine-learning model to predict loan defaults for Global Bank (GB). The goal is to enhance GB's loan approval process by identifying critical features that impact loan defaults and improving risk assessment accuracy.
+This project focuses on.
 
 ### Data Source
 Information on 5,960 home equity loans and includes various attributes such as loan amount, mortgage information, applicant demographics, and loan outcomes (default or repayment).
 
 ## Key Insights
-- **Default Prediction**: We aim to build a binary classification model to predict loan defaults (DL) and minimize false negatives (clients predicted as GL but turn out to be DL).
+- **Default Prediction**: We aim to 
 - **Exploratory Data Analysis (EDA)**: The analysis of the dataset revealed valuable insights, such as the significance of financial metrics, correlations between loan attributes, and differences in loan default rates for various reasons and job types.
 
 ## Analysis Summary and Key Findings
