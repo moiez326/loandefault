@@ -1,4 +1,4 @@
-# Loan Default Prediction for Global Bank
+# Loan default analysis
 ## Project Overview
 This project focuses on.
 
