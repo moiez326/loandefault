@@ -15,7 +15,9 @@ Information on 5,960 home equity loans and includes various attributes such as l
 ![Chart 1](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.36.39.png)
 - Credit-related variables such as derogatory reports showed a more drastic difference in frequency of bad and good loan status.
 ![Chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
-
+-
+![chart 3](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-12-03%20at%2018.31.30.png)
+- The data shows that both 'Good' and 'Default' loans exhibit a broad range of debt to income ratios, predominantly between 20% and 50%, without a discernible pattern or trend line correlation, suggesting that loan default is not strongly dependent on the debt to income ratio.
 ## Conclusions
 
 The analysis suggests that while discounts are a common strategy, they do not significantly alter customer ratings. This could imply that product quality and brand reputation might play more substantial roles in customer satisfaction than pricing strategies alone.
