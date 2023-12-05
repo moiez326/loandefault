@@ -18,13 +18,15 @@ I conducted a series of analyses to explore various dimensions of the loan appro
 - An examination of financial health indicators and their predictive power regarding default likelihood.
 - An investigation into the specifics of the loans issued, such as amounts, purposes, and associated risks.
   
-- Loan amount was not a significant indicator of clients defaulting.
 ![Chart 1](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.36.39.png)
-- Credit-related variables such as derogatory reports showed a more drastic difference in frequency of bad and good loan status.
+### Loan amount was not a significant indicator of clients defaulting.
+
 ![Chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
--
+### Credit-related variables such as derogatory reports showed a more drastic difference in frequency of bad and good loan status.
+
 ![chart 3](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-12-03%20at%2018.31.30.png)
-- The data shows that both 'Good' and 'Default' loans exhibit a broad range of debt to income ratios, predominantly between 20% and 50%, without a discernible pattern or trend line correlation, suggesting that loan default is not strongly dependent on the debt to income ratio.
+### both 'Good' and 'Default' loans exhibit a broad range of debt to income ratios
+- predominantly between 20% and 50%, without a discernible pattern or trend line correlation, suggesting that loan default is not strongly dependent on the debt to income ratio.
 
 ## Conclusion
 Findings indicate that the reasons behind taking a loan and a client's financial history are more predictive of default than just the financial metrics alone. Particularly, loans taken out for debt consolidation have a notably higher default rate compared to other purposes, such as home improvements. These insights suggest a need for Global Bank to adapt its risk assessment protocols to focus more on the purpose of the loan and the borrower's credit history.
